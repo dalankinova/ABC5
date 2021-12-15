@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  ThreadEmu.cpp
+C:\Users\User\Desktop\full\windows\ThreadEmu\ThreadEmu\ThreadEmu.cpp(135,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\full\windows\ThreadEmu\ThreadEmu\ThreadEmu.cpp(138,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\full\windows\ThreadEmu\ThreadEmu\ThreadEmu.cpp(140,20): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+  ThreadEmu.vcxproj -> C:\Users\User\Desktop\full\windows\ThreadEmu\Debug\ThreadEmu.exe
